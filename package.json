@@ -1,0 +1,14 @@
+{
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "description": "Application web de démonstration pour le scénario d'automatisation DevOps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
